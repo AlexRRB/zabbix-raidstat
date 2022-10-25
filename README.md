@@ -36,7 +36,7 @@ Vendor name is used as plugin name (like "hp.so").
 
 ## Compilation:
 Run `make` to compile all in build directory  
-Run `mnake tar` to get an archive  
+Run `make tar` to get an archive  
 
 ## Installation:
 
